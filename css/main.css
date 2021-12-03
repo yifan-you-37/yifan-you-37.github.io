@@ -1,0 +1,61 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html {
+    -webkit-text-size-adjust: none; /* Prevent font scaling in landscape */
+}
+
+body{
+font-family:Times;
+/* font-weight:lighter; */
+line-height: 140%;
+font-size:15px;
+background:F5F5F5;
+}
+
+#wrapper
+{
+position:relative;
+width:800px;
+text-align:center;
+margin-left:auto;
+margin-right:auto;
+background-color: #FFFFFF;
+}
+
+.bannertext
+{
+text-align:left;
+/* color:#4B2E83; */
+line-height: 100%;
+font-size:24pt;
+font-weight: bold;
+}
+
+
+#content
+{
+font-family:Times;
+font-size: 15px;
+text-align: left;
+}
+
+
+a:link {text-decoration:none; color: #003399}
+a:visited {text-decoration:none; color: #003399}
+a:hover {text-decoration:underline; color:#990000}
+
+td {
+	font-family: Times;
+	font-size: 15px;
+    text-align: left; 
+    padding: 0px 10px 20px 10px; 
+    vertical-align: top; 
+}
+
+table { border-top: 1px #4B2E83  solid; width: 100%;padding: 0px 0px 0px 0px;  border-spacing:0px;}
+.table2 {  border-top: 0px #00254c  solid; width: 100%;padding: 0px 0px 0px 0px;  border-spacing:0px;border-collapse: collapse;}
+
+.td2 { text-align: left; padding:10px 0px 0px 0px;  vertical-align: top; }
+.td3 { text-align: left; padding:10px 0px 0px 20px;  vertical-align: top; }
+
