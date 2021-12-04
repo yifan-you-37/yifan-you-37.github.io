@@ -26,13 +26,21 @@ background-color: #FFFFFF;
 .bannertext
 {
 text-align:left;
-/* color:#4B2E83; */
+/* color:#8ee4af; */
 line-height: 100%;
 font-size:24pt;
 font-weight: bold;
 }
 
+.section-title
+{
+/* color:#056571; */
 
+}
+.subsection-description
+{
+line-height:2.0
+}
 #content
 {
 font-family:Times;
@@ -41,9 +49,9 @@ text-align: left;
 }
 
 
-a:link {text-decoration:none; color: #003399}
-a:visited {text-decoration:none; color: #003399}
-a:hover {text-decoration:underline; color:#990000}
+a:link {text-decoration:none; color: #056571}
+a:visited {text-decoration:none; color: #056571}
+a:hover {text-decoration:underline; color:#67aeca}
 
 td {
 	font-family: Times;
